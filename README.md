@@ -6,8 +6,8 @@
   
 **-What did you do particularly well?**
   This courses topics are relatively new to me so it was expected to be overwhelmed when working with the board. I had mitigated this problem by completing section by section one at a time so I may avoid that feeling of being overwhelmed and this helped emmensely in appropiate work flow without getting frustrated or burnt out. Following a logical order in developing code also helped in proper debugging during troubleshooting
-**
--Where could you improve?**
+
+**-Where could you improve?**
   As mentioned earlier, I improved by going piece by piece but managing development time consistently still causes trouble for me. Another area I could improve on are the creation of the state diagrams as in any course that demands this leaves me troubled during the inital phase of interpretting code into a visual diagram.
   
 **-What tools and/or resources are you adding to your support network?**
